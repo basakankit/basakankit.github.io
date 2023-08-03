@@ -14,12 +14,10 @@ So, lets begin
 
 Head over to https://github.com/ and click on new green button. There in the create repository button be carefull to write exactly your username otherwise it won't work.
 
-<img src=""C:\Users\basak\OneDrive\myblog\image.png"" alt="alt text" title="New Repository" />
 
 Do not tick the Add a README file now we have some use of it later on.
 then click on create repository button.
 
-<img src=""C:\Users\basak\OneDrive\myblog\Creating_Repository.png"" alt="alt text" title="Creating Repository" />
 
 Congratulation you have now created your websites repository in GitHub.
 
