@@ -1,6 +1,8 @@
-============================
-Jekyll in Windows
-----------------------------
+---
+layout: post
+title:  "Jekyll in windows"
+date:   2023-08-03
+---
 
 Thinking about creating your own portfolio but don’t want to use JavaScript, WordPress or blogger. You want something else. There you got Jekyll, it will help you create yourself static website in a day and you don’t need any prerequisites for that. Even better Jekyll has free hosting with GitHub pages.
 You are now really getting interested and want to know more about it don’t worry I have attached the link of Jekyll, https://jekyllrb.com/ and GitHub pages https://pages.github.com/ .
