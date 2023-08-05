@@ -3,7 +3,7 @@
 layout: post
 title:  "Hosting Static Jekyll Blog on GitHub for Free"
 date:   2023-08-04 
-
+tags: [Jekyll, GitHub, Git, Markdown, Blog, Website, Windows]
 ---
 
 Thinking about creating your own blog or website but don’t want to use JavaScript, WordPress or blogger. You want something else. There you got Jekyll, it will help you create yourself static website in a day and you don’t need any prerequisites for that. Even better Jekyll has free hosting with GitHub pages.
@@ -63,6 +63,8 @@ Note: remove () these while typing on command prompt.
 Great, you have pushed all your files in GitHub. Go over to GitHub and you will find all your files which you have pushed.
 Now you can search your repository on internet and see your website running.
 
+To know more about Jekyll read my [next blog][next-blog]
+
 [Jekyll-Docs]: https://jekyllrb.com/
 [GitHub-pages]: https://pages.github.com/
 [Git-Hub]: https://github.com/
@@ -70,6 +72,7 @@ Now you can search your repository on internet and see your website running.
 [jekyll-website]: https://jekyllrb.com/docs/
 [github-repository]: https://github.com/basakankit/basakankit.github.io/tree/master
 [-here]: https://git-scm.com/downloads
+[next-blog]: https://basakankit.github.io/2023/08/04/Hosting-Jekyll-GitHub-Free.html
 
 
 
