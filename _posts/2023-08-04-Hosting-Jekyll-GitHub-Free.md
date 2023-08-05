@@ -72,7 +72,7 @@ To know more about Jekyll read my [next blog][next-blog]
 [jekyll-website]: https://jekyllrb.com/docs/
 [github-repository]: https://github.com/basakankit/basakankit.github.io/tree/master
 [-here]: https://git-scm.com/downloads
-[next-blog]: https://basakankit.github.io/2023/08/04/Hosting-Jekyll-GitHub-Free.html
+[next-blog]: hhttps://basakankit.github.io/2023/08/05/Tips-for-Improving-Jekyll-Blog.html
 
 
 
