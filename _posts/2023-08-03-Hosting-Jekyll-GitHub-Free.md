@@ -3,7 +3,7 @@
 layout: post
 title:  "Hosting Static Jekyll Blog on GitHub for Free"
 date:   2023-08-04  
-image: "C:\Users\basak\OneDrive\myblog\basakankit.github.io\assets\images\Cheking-ruby-gem-jekyll.png"
+image: C:\Users\basak\OneDrive\myblog\basakankit.github.io\assets\images\Cheking-ruby-gem-jekyll.png
 ---
 
 Thinking about creating your own blog or website but don’t want to use JavaScript, WordPress or blogger. You want something else. There you got Jekyll, it will help you create yourself static website in a day and you don’t need any prerequisites for that. Even better Jekyll has free hosting with GitHub pages.
