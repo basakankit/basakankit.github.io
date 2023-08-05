@@ -1,9 +1,9 @@
 ---
 
 layout: post
-title:  "Tips for your Jekyll Blog"
+title:  "Tips for Improving Jekyll Blog"
 date:   2023-08-05
-
+tags: [Jekyll, GitHub, Markdown, Blog, Website]
 ---
 
 You have created yourself a basic jekyll website/blog. But you want to add images and want to properly arrange the files and folder. I will help you out.  The folder where you store all your jekyll files locally give it the same name as your GitHub repository for your blog, for keeping it simple. When you want to write drafts of your new posts try not to write in your repository locally as it can be publicy seen in your GitHub repository. Write outside of the local repository in another folder, you may call it 'drafts'.
