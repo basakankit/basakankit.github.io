@@ -3,7 +3,7 @@
 layout: post
 title:  "Hosting Static Jekyll Blog on GitHub for Free"
 date:   2023-08-04 
-image: C:\Users\basak\OneDrive\myblog\basakankit.github.io\assets\images\Screenshot 2023-08-03 182654.png
+image: \assets\images\new.png
 
 ---
 
