@@ -63,7 +63,7 @@ Note: remove () these while typing on command prompt.
 Great, you have pushed all your files in GitHub. Go over to GitHub and you will find all your files which you have pushed.
 Now you can search your repository on internet and see your website running.
 
-To know more about Jekyll read my [next blog][next-blog]
+To know more about Jekyll read my [next blog][next-blog].
 
 [Jekyll-Docs]: https://jekyllrb.com/
 [GitHub-pages]: https://pages.github.com/
@@ -72,7 +72,7 @@ To know more about Jekyll read my [next blog][next-blog]
 [jekyll-website]: https://jekyllrb.com/docs/
 [github-repository]: https://github.com/basakankit/basakankit.github.io/tree/master
 [-here]: https://git-scm.com/downloads
-[next-blog]: hhttps://basakankit.github.io/2023/08/05/Tips-for-Improving-Jekyll-Blog.html
+[next-blog]: https://basakankit.github.io/2023/08/05/Tips-for-Improving-Jekyll-Blog.html
 
 
 
