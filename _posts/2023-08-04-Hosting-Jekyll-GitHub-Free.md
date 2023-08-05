@@ -3,7 +3,7 @@
 layout: post
 title:  "Hosting Static Jekyll Blog on GitHub for Free"
 date:   2023-08-04 
-image: \assets\images\new.png
+image: "\assets\new.png"
 
 ---
 
@@ -20,8 +20,8 @@ So, lets begin
 Head over to [GitHub][Git-Hub] and click on new green button. There in the create repository button be carefull to write exactly your username otherwise it won't work.
 
 
-![]({{ page.image | relative_url }})
 
+![New Button ]({{ "\assets\new.png" }})
 
 
 Congratulation you have now created your websites repository in GitHub.
