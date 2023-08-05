@@ -68,7 +68,7 @@ Now you can search your repository on internet and see your website running.
 [Git-Hub]: https://github.com/
 [ruby-installer]: https://rubyinstaller.org/downloads/
 [jekyll-website]: https://jekyllrb.com/docs/
-[github-repository]: https://basakankit.github.io/
+[github-repository]: https://github.com/basakankit/basakankit.github.io/tree/master
 [-here]: https://git-scm.com/downloads
 
 
