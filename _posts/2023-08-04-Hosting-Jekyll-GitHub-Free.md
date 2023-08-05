@@ -2,8 +2,9 @@
 
 layout: post
 title:  "Hosting Static Jekyll Blog on GitHub for Free"
-date:   2023-08-04  
-image: C:\Users\basak\OneDrive\myblog\basakankit.github.io\assets\images\Cheking-ruby-gem-jekyll.png
+date:   2023-08-04 
+image: C:\Users\basak\OneDrive\myblog\basakankit.github.io\assets\images\Screenshot 2023-08-03 182654.png
+
 ---
 
 Thinking about creating your own blog or website but don’t want to use JavaScript, WordPress or blogger. You want something else. There you got Jekyll, it will help you create yourself static website in a day and you don’t need any prerequisites for that. Even better Jekyll has free hosting with GitHub pages.
@@ -18,9 +19,10 @@ So, lets begin
 
 Head over to [GitHub][Git-Hub] and click on new green button. There in the create repository button be carefull to write exactly your username otherwise it won't work.
 
-<img src="C:\Users\basak\OneDrive\myblog\image.png" alt="alt text" title="New Repository" />
+
 ![]({{ page.image | relative_url }})
-<img src="C:\Users\basak\OneDrive\myblog\Creating_Repository.png" alt="Creating Repository" title="Creating Repository" />
+
+
 
 Congratulation you have now created your websites repository in GitHub.
 
