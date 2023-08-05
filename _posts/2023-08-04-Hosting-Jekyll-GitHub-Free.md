@@ -3,7 +3,6 @@
 layout: post
 title:  "Hosting Static Jekyll Blog on GitHub for Free"
 date:   2023-08-04 
-image: "\assets\new.png"
 
 ---
 
@@ -21,7 +20,7 @@ Head over to [GitHub][Git-Hub] and click on new green button. There in the creat
 
 
 
-![New Button ]({{ "\assets\new.png" }})
+![Creating Repository]({{ "\assets\image.png" }})
 
 
 Congratulation you have now created your websites repository in GitHub.
@@ -29,17 +28,22 @@ Congratulation you have now created your websites repository in GitHub.
 ### Step 2 - Installing jekyll on your computer and running your website locally
 
 I have shown you on Windows. For other operating systems steps may be a bit different.
-We now need to go to [rubyinstaller][ruby-installer] and install ruby with devkit which suits your computer best (it's going to be in bold). Double click on rubyinstaller where it is downloaded. Keep clicking on the next button and then at the end finish button. Now a new window will be opened where it will be written ruby installer for windows. Press on 1, 2 and 3 step by step.
+We now need to go to [rubyinstaller][ruby-installer] and install ruby with devkit which suits your computer best (it's going to be in bold). Double click on rubyinstaller where it is downloaded. Keep clicking on the next button and then at the end finish button. Now a new window will be opened where it will be written ruby installer for windows. Press on 1, 2 and 3 step by step.Then follow the instructions in the [jekyll website][jekyll-website] .
+
+
+![Downloading jekyll ]({{ "\assets\Downloading-jekyll.png" }})
+
+
 Now open the command promt to make sure everything got installed correctly for that give the following commands.
 
-<img src="C:\Users\basak\OneDrive\myblog\Draft_images\Cheking-ruby-gem-jekyll.png" alt="alt text" title="Creating Repository" />
 
-Then follow the instructions in the [jekyll website][jekyll-website] .
+![Cheking in command prompt ]({{ "\assets\Cheking-ruby-gem-jekyll.png" }})
+
 
 Now a stucture of your website is created. Which you can keep modifying.
 
 
-Note: To create your own post go to _post file in your local reository and keep your blog in vscode in markdown there.
+Note: To create your own post go to _post file in your local reository and keep your blog in vscode in markdown there. You can refer to my [github repository][github-repository] of this webite.
 
 ### Step 3 - Hosting you website on github pages.
 
@@ -64,6 +68,7 @@ Now you can search your repository on internet and see your website running.
 [Git-Hub]: https://github.com/
 [ruby-installer]: https://rubyinstaller.org/downloads/
 [jekyll-website]: https://jekyllrb.com/docs/
+[github-repository]: https://basakankit.github.io/
 [-here]: https://git-scm.com/downloads
 
 
