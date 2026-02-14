@@ -9,7 +9,8 @@ Final year Computer Science and Engineering student in KIIT, Bhubaneshwar. Curre
 I have interests in software development, networks, cloud and data analysis.
 
 Beyond tech, I enjoy photography, capturing stories stories hidden in everyday life.  
-You can expore my photography portfolio on [flickr][flickr-link], my technical work in [Github][github-link] and connect with me on [linkedin][linkedin-link].
+ 
+You can explore my photography portfolio on [flickr][flickr-link], my technical work in [Github][github-link] and connect with me on [linkedin][linkedin-link].
 
 
 
