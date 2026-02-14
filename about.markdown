@@ -17,7 +17,7 @@ You can expore my photography portfolio on [flickr][flickr-link], my technical w
 [flickr-link]: https://www.flickr.com/photos/ankitbasak/
 [magma-link]: https://magmacore.org/
 [github-link]: https://github.com/basakankit
-[linkedin-link]: www.linkedin.com/in/basakankit
+[linkedin-link]: https://www.linkedin.com/in/basakankit/
 
 <!-- [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
