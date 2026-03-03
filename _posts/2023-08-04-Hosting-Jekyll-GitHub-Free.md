@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title:  "2023-08-04-Hosting Static Jekyll Blog on GitHub for Free"
-date:   2023-08-04 
+title:  "Hosting Static Jekyll Blog on GitHub for Free"
+date: 2023-08-04 
 tags: [Jekyll, GitHub, Git, Markdown, Blog, Website, Windows]
 ---
 

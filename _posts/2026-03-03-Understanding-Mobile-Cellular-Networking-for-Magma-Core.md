@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title:  "Understanding Mobile Cellular Networking for Magma Core"
-date:   2026-03-03 
+title: "Understanding Mobile Cellular Networking for Magma Core"
+date: 2026-03-03 
 tags: [Jekyll, GitHub, 4G, Mobile Cellular Networking,Evolved PAcket Core, EPC, Magma Core, Blog, Website]
 ---
 
