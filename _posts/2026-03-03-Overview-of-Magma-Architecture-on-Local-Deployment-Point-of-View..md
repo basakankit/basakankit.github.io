@@ -1,9 +1,9 @@
 ---
 
 layout: post
-title:  "2Overview of Magma Architecture on Local Deployment Point of View."
+title:  "Overview of Magma Architecture on Local Deployment Point of View."
 date: 2026-03-03 
-tags: [Jekyll, GitHub, Git, Markdown, Blog, Website, Windows]
+tags: [Jekyll, GitHub, 4G, Mobile Cellular Networking,Evolved PAcket Core, EPC, Magma Core, Blog, Website]
 ---
 
 This is a collection of notes for better understanding of architecture of magam. I am still in progress to complete the blog.
