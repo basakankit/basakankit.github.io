@@ -40,8 +40,7 @@ The AGW reports runtime state to the orchestrator, while the orchestrator pushes
 Cloud based web UI for configuring and managing wireless network. It communicates to the rest of magma via api to orchestrator. 
 
 
-![Planes
-](/assets/magma-arch/planes.png)
+![Planes](/assets/magma-arch/planes.png)
 
 ---
 Credits: [Introduction to Magma: Cloud Native Wireless Networking (LFS166)][LFS1666], [Private 5G: A Systems Approach][5G-book-link] 
