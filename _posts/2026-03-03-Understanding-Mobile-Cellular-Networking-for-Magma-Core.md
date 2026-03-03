@@ -77,7 +77,7 @@ Credits: [Introduction to Magma: Cloud Native Wireless Networking (LFS166)][LFS1
 
 
 [magma-website]: https://magmacore.org/
-[next-blog]: https://basakankit.github.io/2026/03/03/Overview-of-Magma-Architecture-on-Local-Deployment-Point-of-View.
+[next-blog]: https://ankitbasak.com/2026/03/03/Overview-of-Magma-Architecture-on-Local-Deployment-Point-of-View/html
 [LFS1666]: https://trainingportal.linuxfoundation.org/courses/introduction-to-magma-cloud-native-wireless-networking-lfs166
 [Rodmap-LTE]: https://www.telecomhall.net/t/roadmap-to-lte-protocol-stacks/30327
 [5G-book-link]: https://5g.systemsapproach.org/
