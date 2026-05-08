@@ -11,11 +11,11 @@ We connect our phones or laptops to the internet, and somehow the router makes e
 
 But behind the blinking lights and antennas, a router is actually a small computer.
 
-For better understanding refer https://www.cloudflare.com/learning/network-layer/what-is-a-router/
+For better understanding refer [https://www.cloudflare.com/learning/network-layer/what-is-a-router/][https://www.cloudflare.com/learning/network-layer/what-is-a-router/]
 
-![routers-nw](../assets/Glimpse-inside-a-router-firmware/routers-nw.png)
+![routers-nw]({{ "\assets\Glimpse-inside-a-router-firmware\routers-nw.png" }})
 
-Credits - https://courses.grainger.illinois.edu/ece598hpn/fa2022/slides/lect8-softwarerouters.pdf
+Credits - [https://courses.grainger.illinois.edu/ece598hpn/fa2022/slides/lect8-softwarerouters.pdf][router-nw-link]
 
 Just like a computer runs an operating system such as Windows or Ubuntu, a router also needs software to function.  
 This special software is called **firmware**.
@@ -40,7 +40,7 @@ Popular router firmware systems include:
 
 In this article, we will take a simple look inside router firmware and understand the major software components that help a router operate behind the scenes.
 
-![routers-nw](../assets/Glimpse-inside-a-router-firmware/click-mod-router.png)
+![routers-nw]({{ "\assets\Glimpse-inside-a-router-firmware\click-mod-router.png" }})
 
 ## The Software Inside the Router
 
@@ -113,9 +113,9 @@ This helps devices connect securely to the network.
 
 ## How Does the Software Inside a Router Work?
 
-![routers-nw](../assets/Glimpse-inside-a-router-firmware/PANBED-arch.png)
+![PANBED-arch]({{ "\assets\Glimpse-inside-a-router-firmware\PANBED-arch.png" }})
 
-Credits - Xu, Qiaozhi & Zhang, Junxing. (2017). Building a lightweight testbed using devices in personal area networks. Computer Science and Information Systems. 14. 857-873. 10.2298/CSIS161230033X. 
+Credits - Xu, Qiaozhi & Zhang, Junxing. (2017). Building a lightweight testbed using devices in personal area networks. Computer Science and Information Systems. 14. 857-873. 10.2298/CSIS161230033X.
 
 Inside a router, multiple software components continuously communicate with each other to process network traffic.
 
@@ -147,7 +147,7 @@ In my jouney of getting to know more about a router software, openWRt seems to b
 
 openWrt is fully customizable accoring to a hardware needs of router/device even so much that it can be used on rasberry pi.
 
-To get know about it more refer https://openwrt.org/
+To get know about it more refer [https://openwrt.org/][openWrt-website]
 or I found an excellent course on it at youtube [OpenWRT Complete Course become ZERO to HERO][OpenWRT-Complete-Course-become-ZERO-to-HERO].
 
 Enterprise routers typically run specialized firmware such as Cisco IOS on more capable hardware.
@@ -159,5 +159,6 @@ These systems are designed for high reliability and continuous operation, since 
 In the next blog post, we will dive deeper into the world of router firmware using OpenWrt and explore how the software inside a router actually works behind the scenes.
 
 [OpenWRT-Complete-Course-become-ZERO-to-HERO]: https://youtu.be/MB2QLwgI1sw?si=Jq-AOqrSLE5Es3Ql
-
-
+[https://www.cloudflare.com/learning/network-layer/what-is-a-router/]: https://www.cloudflare.com/learning/network-layer/what-is-a-router/
+[router-nw-link]: https://courses.grainger.illinois.edu/ece598hpn/fa2022/slides/lect8-softwarerouters.pdf
+[openWrt-website]: https://openwrt.org/
